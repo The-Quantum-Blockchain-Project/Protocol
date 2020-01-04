@@ -1,8 +1,9 @@
-# Protocol
+
 [en] Available in English
 
 [pt-br] Disponível em português
 
+# [en] Protocol
 
 ## What it is
 
@@ -17,6 +18,8 @@ More details will be available in the following weeks.
 ## How to join
 
 You can contact us by joining the [Telegram group](https://t.me/thequantumblockchainproject) and requesting to join the protocol development.
+
+# [pt-br] Protocolo
 
 ## O que é
 
